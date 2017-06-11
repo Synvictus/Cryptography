@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=key
+comment0.target=int[]\ orderKey(java.lang.String)
+comment1.params=message\ key
+comment1.target=java.lang.String[][]\ fillArray(java.lang.String,\ java.lang.String)
+comment2.params=filledArr\ key
+comment2.target=java.lang.String\ getCipherText(java.lang.String[][],\ int[])
+comment3.params=message\ key
+comment3.target=java.lang.String[][]\ fillDecryptArr(java.lang.String,\ java.lang.String)
+comment4.params=message\ key
+comment4.target=java.lang.String[][]\ getTranspositionBoard(java.lang.String,\ java.lang.String)
+comment5.params=filledArr
+comment5.target=java.lang.String\ getDecryptedText(java.lang.String[][])
+numComments=6

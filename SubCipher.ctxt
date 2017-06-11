@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=int[]\ applyCipher(int[])
+comment1.params=arr
+comment1.target=int[]\ revertCipher(int[])
+comment2.params=message
+comment2.target=int[]\ convertMessage(java.lang.String)
+comment3.params=finalNums
+comment3.target=java.lang.String\ getNewMessage(int[])
+numComments=4
